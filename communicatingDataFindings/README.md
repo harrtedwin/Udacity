@@ -1,4 +1,4 @@
-# Communicate Data Finding : Ford GoBike Trip Data
+# Communicate Data Finding : PROSPER LOAN DATA
 ## by Edwin Kihara
 
 
